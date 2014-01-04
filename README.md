@@ -1,4 +1,4 @@
 ipynb
 =====
 
-To store ipython notebooks
+To learn and store ipython notebooks and git
