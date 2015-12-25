@@ -1,3 +1,4 @@
+#!/usr/bin/python
 class Time:
     def whatTime(self, seconds):
         s = seconds%60
